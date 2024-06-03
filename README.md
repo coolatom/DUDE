@@ -2,6 +2,8 @@
 
 ## **A simple chat application with encryption features.**
 
+![An image of the Cover for DUDE! chatapp.](github-assets/BaseCover.png)
+
 ### This project was a simple implementation of the idea of a secure web application for communication. The next thing was the idea to make a closed chat for the [LGBT community](https://www.google.com/search?client=firefox-b-d&q=+LGBT+community).
 
 ### But, over time, it acquires new features and grows into a full-fledged secure chat application
